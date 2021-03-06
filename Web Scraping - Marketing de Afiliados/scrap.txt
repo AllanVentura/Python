@@ -1,0 +1,520 @@
+<div class="row">
+            
+              <div class="col-xl-2 col-md-3 col-sm-4 col-6">
+                
+  
+    
+    
+    
+    
+
+    <div class="hot-card hot-card--hover card-market mb-4 flex-column" data-test-id="market-card-item">
+      <div class="row w-100" style="margin: 0 !important">
+        <div class="hot-image rounded-top col-sm-4 col-md-12 p-0">
+          <div style="background-image: url('https://static-media.hotmart.com/NJ7plPufJHD1st_iib2g51YnqrY=/filters:background_color(white)/hotmart/product_pictures/ab50e427-ff8d-4ed7-bf50-149b28673eed/Capa_Hotmart.jpg')"></div>
+          
+            <a href="/products/view/ce5765af-0b04-44dd-af57-2e0219e51c4b" class="full-link js-access-product-details">Ver mais</a>
+          
+        </div>
+
+        <div class="p-3 rounded-bottom details col-sm-8 col-md-12">
+          
+
+          <a href="/products/view/ce5765af-0b04-44dd-af57-2e0219e51c4b">
+            <h3 class="h6">
+              <strong class="text-truncate d-block">
+                Diplomado en Construcción de Huertos Urbanos
+              </strong>
+            </h3>
+          </a>
+
+          <p class="m-0">
+            
+
+              
+                <span class="d-block text-small text-muted">
+                  Comissão até
+                </span>
+
+                <strong class="text-success js-popover" data-toggle="popover" data-placement="top" data-content="Por ser um percentual sobre a venda, o valor da comissão recebida dependerá do valor da oferta do produto comercializado." data-original-title="" title="">
+                  COP$ 104.515,60
+                </strong>
+
+                <span class="float-right text-small text-danger js-tooltip" data-toggle="tooltip" data-placement="top" title="" data-original-title="Temperatura">
+                  <strong>
+                    18º
+                  </strong>
+                  <svg class="svg-inline--fa fa-fire fa-w-12" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="fire" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z"></path></svg><!-- <i class="fas fa-fire"></i> Font Awesome fontawesome.com -->
+                </span>
+              
+            
+          </p>
+        </div>
+      </div>
+    </div>
+  
+  
+  
+              </div>
+            
+              <div class="col-xl-2 col-md-3 col-sm-4 col-6">
+                
+  
+    
+    
+    
+    
+
+    <div class="hot-card hot-card--hover card-market mb-4 flex-column" data-test-id="market-card-item">
+      <div class="row w-100" style="margin: 0 !important">
+        <div class="hot-image rounded-top col-sm-4 col-md-12 p-0">
+          <div style="background-image: url('https://static-media.hotmart.com/idTigSBwPBWeUs930WaeFHnE_mQ=/filters:background_color(white)/hotmart/product_pictures/2af7969e-8201-427d-ba1a-7105ddf809dd/empresaslucrativas250x250.jpg')"></div>
+          
+            <a href="/products/view/a9fe4acb-cd6e-423b-b725-d0443d4a0f03" class="full-link js-access-product-details">Ver mais</a>
+          
+        </div>
+
+        <div class="p-3 rounded-bottom details col-sm-8 col-md-12">
+          
+
+          <a href="/products/view/a9fe4acb-cd6e-423b-b725-d0443d4a0f03">
+            <h3 class="h6">
+              <strong class="text-truncate d-block">
+                Empresas Lucrativas
+              </strong>
+            </h3>
+          </a>
+
+          <p class="m-0">
+            
+
+              
+                <span class="d-block text-small text-muted">
+                  Comissão até
+                </span>
+
+                <strong class="text-success js-popover" data-toggle="popover" data-placement="top" data-content="Por ser um percentual sobre a venda, o valor da comissão recebida dependerá do valor da oferta do produto comercializado." data-original-title="" title="">
+                  R$ 198.267,52
+                </strong>
+
+                <span class="float-right text-small text-danger js-tooltip" data-toggle="tooltip" data-placement="top" title="" data-original-title="Temperatura">
+                  <strong>
+                    15º
+                  </strong>
+                  <svg class="svg-inline--fa fa-fire fa-w-12" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="fire" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z"></path></svg><!-- <i class="fas fa-fire"></i> Font Awesome fontawesome.com -->
+                </span>
+              
+            
+          </p>
+        </div>
+      </div>
+    </div>
+  
+  
+  
+              </div>
+            
+              <div class="col-xl-2 col-md-3 col-sm-4 col-6">
+                
+  
+    
+    
+    
+    
+
+    <div class="hot-card hot-card--hover card-market mb-4 flex-column" data-test-id="market-card-item">
+      <div class="row w-100" style="margin: 0 !important">
+        <div class="hot-image rounded-top col-sm-4 col-md-12 p-0">
+          <div style="background-image: url('https://static-media.hotmart.com/h2mezLRjzm4jR7RHz9vL2yKNE-g=/filters:background_color(white)/hotmart/product_pictures/0dd73f78-e0f4-4b8f-ac04-2cdf53532ee1/E7BA462113584AAC81ACE6B11501FC83.png')"></div>
+          
+            <a href="/products/view/aabceab8-b299-4d4c-9962-7cc334aab584" class="full-link js-access-product-details">Ver mais</a>
+          
+        </div>
+
+        <div class="p-3 rounded-bottom details col-sm-8 col-md-12">
+          
+
+          <a href="/products/view/aabceab8-b299-4d4c-9962-7cc334aab584">
+            <h3 class="h6">
+              <strong class="text-truncate d-block">
+                Seja mais doque dono do seu cão. Seja o Líder!!!!
+              </strong>
+            </h3>
+          </a>
+
+          <p class="m-0">
+            
+
+              
+                <span class="d-block text-small text-muted">
+                  Comissão até
+                </span>
+
+                <strong class="text-success js-popover" data-toggle="popover" data-placement="top" data-content="Por ser um percentual sobre a venda, o valor da comissão recebida dependerá do valor da oferta do produto comercializado." data-original-title="" title="">
+                  ¥ 405
+                </strong>
+
+                <span class="float-right text-small text-danger js-tooltip" data-toggle="tooltip" data-placement="top" title="" data-original-title="Temperatura">
+                  <strong>
+                    13º
+                  </strong>
+                  <svg class="svg-inline--fa fa-fire fa-w-12" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="fire" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z"></path></svg><!-- <i class="fas fa-fire"></i> Font Awesome fontawesome.com -->
+                </span>
+              
+            
+          </p>
+        </div>
+      </div>
+    </div>
+  
+  
+  
+              </div>
+            
+          </div>
+		 <div class="row">
+            
+              <div class="col-xl-2 col-md-3 col-sm-4 col-6">
+                
+  
+    
+    
+    
+    
+
+    <div class="hot-card hot-card--hover card-market mb-4 flex-column" data-test-id="market-card-item">
+      <div class="row w-100" style="margin: 0 !important">
+        <div class="hot-image rounded-top col-sm-4 col-md-12 p-0">
+          <div style="background-image: url('https://static-media.hotmart.com/GKQJTAlwwf1zkn3dMoDiXqKSnFw=/filters:background_color(white)/hotmart/product_pictures/1519adaf-e96c-44a4-9c96-7916f30f7c74/capaprodutojardimdoinicioaofim.jpg')"></div>
+          
+            <a href="/products/view/c3fdfffd-9d54-4686-9dfa-097cf0efc6ed" class="full-link js-access-product-details">Ver mais</a>
+          
+        </div>
+
+        <div class="p-3 rounded-bottom details col-sm-8 col-md-12">
+          
+
+          <a href="/products/view/c3fdfffd-9d54-4686-9dfa-097cf0efc6ed">
+            <h3 class="h6">
+              <strong class="text-truncate d-block">
+                Jardim: Do Início ao Fim
+              </strong>
+            </h3>
+          </a>
+
+          <p class="m-0">
+            
+
+              
+                <span class="d-block text-small text-muted">
+                  Comissão até
+                </span>
+
+                <strong class="text-success js-popover" data-toggle="popover" data-placement="top" data-content="Por ser um percentual sobre a venda, o valor da comissão recebida dependerá do valor da oferta do produto comercializado." data-original-title="" title="">
+                  R$ 636,81
+                </strong>
+
+                <span class="float-right text-small text-danger js-tooltip" data-toggle="tooltip" data-placement="top" title="" data-original-title="Temperatura">
+                  <strong>
+                    18º
+                  </strong>
+                  <svg class="svg-inline--fa fa-fire fa-w-12" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="fire" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z"></path></svg><!-- <i class="fas fa-fire"></i> Font Awesome fontawesome.com -->
+                </span>
+              
+            
+          </p>
+        </div>
+      </div>
+    </div>
+  
+  
+  
+              </div>
+            
+              <div class="col-xl-2 col-md-3 col-sm-4 col-6">
+                
+  
+    
+    
+    
+    
+
+    <div class="hot-card hot-card--hover card-market mb-4 flex-column" data-test-id="market-card-item">
+      <div class="row w-100" style="margin: 0 !important">
+        <div class="hot-image rounded-top col-sm-4 col-md-12 p-0">
+          <div style="background-image: url('https://static-media.hotmart.com/ugSAMqUo_FHN3PHjlnCA3easGME=/filters:background_color(white)/hotmart/product_pictures/67ac6b15-c7e3-45f5-8c93-f4d9e8f31abd/QN2dOGRkR0CPYooFv7YL_ESF_7072.jpg')"></div>
+          
+            <a href="/products/view/abc3a366-a561-4245-8d35-f128f77625a5" class="full-link js-access-product-details">Ver mais</a>
+          
+        </div>
+
+        <div class="p-3 rounded-bottom details col-sm-8 col-md-12">
+          
+
+          <a href="/products/view/abc3a366-a561-4245-8d35-f128f77625a5">
+            <h3 class="h6">
+              <strong class="text-truncate d-block">
+                Entrenamiento Canino
+              </strong>
+            </h3>
+          </a>
+
+          <p class="m-0">
+            
+
+              
+                <span class="d-block text-small text-muted">
+                  Comissão até
+                </span>
+
+                <strong class="text-success js-popover" data-toggle="popover" data-placement="top" data-content="Por ser um percentual sobre a venda, o valor da comissão recebida dependerá do valor da oferta do produto comercializado." data-original-title="" title="">
+                  MXN$ 594,26
+                </strong>
+
+                <span class="float-right text-small text-danger js-tooltip" data-toggle="tooltip" data-placement="top" title="" data-original-title="Temperatura">
+                  <strong>
+                    17º
+                  </strong>
+                  <svg class="svg-inline--fa fa-fire fa-w-12" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="fire" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z"></path></svg><!-- <i class="fas fa-fire"></i> Font Awesome fontawesome.com -->
+                </span>
+              
+            
+          </p>
+        </div>
+      </div>
+    </div>
+  
+  
+  
+              </div>
+            
+              <div class="col-xl-2 col-md-3 col-sm-4 col-6">
+                
+  
+    
+    
+    
+    
+
+    <div class="hot-card hot-card--hover card-market mb-4 flex-column" data-test-id="market-card-item">
+      <div class="row w-100" style="margin: 0 !important">
+        <div class="hot-image rounded-top col-sm-4 col-md-12 p-0">
+          <div style="background-image: url('https://static-media.hotmart.com/sVodSKRyDTH0fqwXSECI4opLXfQ=/filters:background_color(white)/hotmart/product_pictures/441e019f-3042-430f-bfa0-a76eefac3a7f/WhatsAppImage20200622at210821.jpeg')"></div>
+          
+            <a href="/products/view/bb3c0251-4bdc-4f3d-b303-469cdcf40dc7" class="full-link js-access-product-details">Ver mais</a>
+          
+        </div>
+
+        <div class="p-3 rounded-bottom details col-sm-8 col-md-12">
+          
+
+          <a href="/products/view/bb3c0251-4bdc-4f3d-b303-469cdcf40dc7">
+            <h3 class="h6">
+              <strong class="text-truncate d-block">
+                Banhista Expert
+              </strong>
+            </h3>
+          </a>
+
+          <p class="m-0">
+            
+
+              
+                <span class="d-block text-small text-muted">
+                  Comissão até
+                </span>
+
+                <strong class="text-success js-popover" data-toggle="popover" data-placement="top" data-content="Por ser um percentual sobre a venda, o valor da comissão recebida dependerá do valor da oferta do produto comercializado." data-original-title="" title="">
+                  R$ 163,18
+                </strong>
+
+                <span class="float-right text-small text-danger js-tooltip" data-toggle="tooltip" data-placement="top" title="" data-original-title="Temperatura">
+                  <strong>
+                    16º
+                  </strong>
+                  <svg class="svg-inline--fa fa-fire fa-w-12" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="fire" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z"></path></svg><!-- <i class="fas fa-fire"></i> Font Awesome fontawesome.com -->
+                </span>
+              
+            
+          </p>
+        </div>
+      </div>
+    </div>
+  
+  
+  
+              </div>
+            
+              <div class="col-xl-2 col-md-3 col-sm-4 col-6">
+                
+  
+    
+    
+    
+    
+
+    <div class="hot-card hot-card--hover card-market mb-4 flex-column" data-test-id="market-card-item">
+      <div class="row w-100" style="margin: 0 !important">
+        <div class="hot-image rounded-top col-sm-4 col-md-12 p-0">
+          <div style="background-image: url('https://static-media.hotmart.com/3OlhxCiX9T_OqRpCrfcTwNBjOJw=/filters:background_color(white)/hotmart/product_pictures/df4962ae-3bc3-4079-91cf-a4033e9e18e2/Dia18A.jpg')"></div>
+          
+            <a href="/products/view/a5cb1181-33a0-448f-862f-70f8270bb31e" class="full-link js-access-product-details">Ver mais</a>
+          
+        </div>
+
+        <div class="p-3 rounded-bottom details col-sm-8 col-md-12">
+          
+
+          <a href="/products/view/a5cb1181-33a0-448f-862f-70f8270bb31e">
+            <h3 class="h6">
+              <strong class="text-truncate d-block">
+                PASTOREIO.ON
+              </strong>
+            </h3>
+          </a>
+
+          <p class="m-0">
+            
+
+              
+                <span class="d-block text-small text-muted">
+                  Comissão até
+                </span>
+
+                <strong class="text-success js-popover" data-toggle="popover" data-placement="top" data-content="Por ser um percentual sobre a venda, o valor da comissão recebida dependerá do valor da oferta do produto comercializado." data-original-title="" title="">
+                  R$ 702,48
+                </strong>
+
+                <span class="float-right text-small text-danger js-tooltip" data-toggle="tooltip" data-placement="top" title="" data-original-title="Temperatura">
+                  <strong>
+                    15º
+                  </strong>
+                  <svg class="svg-inline--fa fa-fire fa-w-12" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="fire" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z"></path></svg><!-- <i class="fas fa-fire"></i> Font Awesome fontawesome.com -->
+                </span>
+              
+            
+          </p>
+        </div>
+      </div>
+    </div>
+  
+  
+  
+              </div>
+            
+              <div class="col-xl-2 col-md-3 col-sm-4 col-6">
+                
+  
+    
+    
+    
+    
+
+    <div class="hot-card hot-card--hover card-market mb-4 flex-column" data-test-id="market-card-item">
+      <div class="row w-100" style="margin: 0 !important">
+        <div class="hot-image rounded-top col-sm-4 col-md-12 p-0">
+          <div style="background-image: url('https://static-media.hotmart.com/h2mezLRjzm4jR7RHz9vL2yKNE-g=/filters:background_color(white)/hotmart/product_pictures/0dd73f78-e0f4-4b8f-ac04-2cdf53532ee1/E7BA462113584AAC81ACE6B11501FC83.png')"></div>
+          
+            <a href="/products/view/aabceab8-b299-4d4c-9962-7cc334aab584" class="full-link js-access-product-details">Ver mais</a>
+          
+        </div>
+
+        <div class="p-3 rounded-bottom details col-sm-8 col-md-12">
+          
+
+          <a href="/products/view/aabceab8-b299-4d4c-9962-7cc334aab584">
+            <h3 class="h6">
+              <strong class="text-truncate d-block">
+                Seja mais doque dono do seu cão. Seja o Líder!!!!
+              </strong>
+            </h3>
+          </a>
+
+          <p class="m-0">
+            
+
+              
+                <span class="d-block text-small text-muted">
+                  Comissão até
+                </span>
+
+                <strong class="text-success js-popover" data-toggle="popover" data-placement="top" data-content="Por ser um percentual sobre a venda, o valor da comissão recebida dependerá do valor da oferta do produto comercializado." data-original-title="" title="">
+                  ¥ 405
+                </strong>
+
+                <span class="float-right text-small text-danger js-tooltip" data-toggle="tooltip" data-placement="top" title="" data-original-title="Temperatura">
+                  <strong>
+                    13º
+                  </strong>
+                  <svg class="svg-inline--fa fa-fire fa-w-12" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="fire" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z"></path></svg><!-- <i class="fas fa-fire"></i> Font Awesome fontawesome.com -->
+                </span>
+              
+            
+          </p>
+        </div>
+      </div>
+    </div>
+  
+  
+  
+              </div>
+            
+              <div class="col-xl-2 col-md-3 col-sm-4 col-6">
+                
+  
+    
+    
+    
+    
+
+    <div class="hot-card hot-card--hover card-market mb-4 flex-column" data-test-id="market-card-item">
+      <div class="row w-100" style="margin: 0 !important">
+        <div class="hot-image rounded-top col-sm-4 col-md-12 p-0">
+          <div style="background-image: url('https://static-media.hotmart.com/io0JPNxqCVJOVVAM49aPlmAeOK4=/filters:background_color(white)/hotmart/product_pictures/d840e163-a0cd-405c-a343-59cb4f21b096/unnamed2.jpg')"></div>
+          
+            <a href="/products/view/26795683-e848-440c-b4bf-d785186bda6f" class="full-link js-access-product-details">Ver mais</a>
+          
+        </div>
+
+        <div class="p-3 rounded-bottom details col-sm-8 col-md-12">
+          
+
+          <a href="/products/view/26795683-e848-440c-b4bf-d785186bda6f">
+            <h3 class="h6">
+              <strong class="text-truncate d-block">
+                Curso de Fitoterapia Completo
+              </strong>
+            </h3>
+          </a>
+
+          <p class="m-0">
+            
+
+              
+                <span class="d-block text-small text-muted">
+                  Comissão até
+                </span>
+
+                <strong class="text-success js-popover" data-toggle="popover" data-placement="top" data-content="Por ser um percentual sobre a venda, o valor da comissão recebida dependerá do valor da oferta do produto comercializado." data-original-title="" title="">
+                  R$ 680,40
+                </strong>
+
+                <span class="float-right text-small text-danger js-tooltip" data-toggle="tooltip" data-placement="top" title="" data-original-title="Temperatura">
+                  <strong>
+                    11º
+                  </strong>
+                  <svg class="svg-inline--fa fa-fire fa-w-12" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="fire" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z"></path></svg><!-- <i class="fas fa-fire"></i> Font Awesome fontawesome.com -->
+                </span>
+              
+            
+          </p>
+        </div>
+      </div>
+    </div>
+  
+  
+  
+              </div>
+            
+          </div> 
+		 
