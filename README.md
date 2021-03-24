@@ -5,7 +5,7 @@
 </p>
 
 # Allan Ventura
-<sub>*Engenheiro de Produção com pós em Big Data</sub>
+<sub>*Engenheiro de Produção com pós em Big Data*</sub>
 
 Formado em engenharia de produção pela Universidade Federal Fluminense (UFF). Sou movido a novos desafios e entusiasta de Data Science. Realizo operações no mercado financeiro através de mecanismos de análise de dados. E atualmento faço uma pós graduação em Big Data.
 
